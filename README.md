@@ -4,7 +4,7 @@ A responsive Employee Directory web application built with **Vite, JavaScript, H
 
 ## 🚀 Live Demo
 
-[Add your Vercel live website link here]
+https://employee-directory-kappa-silk.vercel.app/
 
 ## 📂 GitHub Repository
 
