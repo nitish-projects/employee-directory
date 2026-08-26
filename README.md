@@ -6,6 +6,12 @@ A responsive Employee Directory web application built with **Vite, JavaScript, H
 
 https://employee-directory-kappa-silk.vercel.app/
 
+## 📸 Screenshots
+
+### Employee Directory
+
+![Employee Directory](screenshots/home.png)
+
 ## 📂 GitHub Repository
 
 https://github.com/nitish-projects/employee-directory
